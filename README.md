@@ -1,2 +1,3 @@
 # hello-world
 Este repositorio es para practicar el flujo de GitHub
+Hola soy Dana y estudio en la prepa colegio modelo de sabinas, tengo 16 años y me gusta esta certificación ya que me ayuda a utilizar la tecnologia al igual que me enseña a programar y me motiva con todo, mi comida favorita es la pasta y tambien el sushi aunque a veces no se elegir solo uno, quiero mucho a mis compañeros, todos son muy lindos conmigo aunque a veces siento que deberiamos de tener mas comunicación fuera de la escuela, me gusta mucho la escuela y mas porque me empezo a gustar un niño que me hace sentir feliz y me alegra los dias tristes y malos.
